@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Akshay-Arjun/69phisher">
+  <a href="https://github.com/namastehacing/69PHISHING-.git">
     <img src="./logo.png" alt="Logo" >
   </a>
 
@@ -8,7 +8,7 @@
 
 ##### Just, Clone this repository -
 ```sh
-$ git clone https://github.com/Akshay-Arjun/69phisher.git
+$ git clone https://github.com/namastehacing/69PHISHING-.git
 ```
 
 ##### Change to cloned directory -
